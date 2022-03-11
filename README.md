@@ -65,7 +65,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 ```
 - Rol en el proyecto: Scrum Master
 - Email: fabianonlyguard@gmail.com
-- LinkedIn: http://www.linkedin.com/in/fabi
+- LinkedIn: linkedin.com/in/fabián-andrés-sotelo-84063237
 - Rol laboral: 
 - Carrera en EducacionIT: Cloud DevOps
 ```
