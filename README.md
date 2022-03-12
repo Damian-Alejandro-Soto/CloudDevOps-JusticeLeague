@@ -21,7 +21,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:oncecatorce@gmail.com
 - LinkedIn: https://www.linkedin.com/in/facundo-lopez-goitia/
-- Rol laboral: 
+- Rol laboral: Devops - Sysadmin La Caja de Ahorro y Seguro
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
