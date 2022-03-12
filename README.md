@@ -132,3 +132,10 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol laboral: Cloud Infrastructure Analyst and Monitoring
 - Carrera en EducacionIT: Cloud DevOps
 ```
+### 🔷 Raul Narvaez
+```
+- Rol en el proyecto: Dev
+- Email: raul1905@gmail.com
+- LinkedIn: https://www.linkedin.com/in/raul-narvaez/
+- Rol laboral: 
+- Carrera en EducacionIT: Cloud DevOps
