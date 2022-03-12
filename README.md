@@ -129,6 +129,6 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: hauilleelias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/elias-hauille-527476178/
-- Rol laboral: 
+- Rol laboral: Cloud Infrastructure Analyst and Monitoring
 - Carrera en EducacionIT: Cloud DevOps
 ```
