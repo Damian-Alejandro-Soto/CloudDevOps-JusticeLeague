@@ -93,7 +93,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:rfacundo.reyes@gmail.com
 - LinkedIn: https://www.linkedin.com/in/facundo-reyes-30024b23/
-- Rol laboral: 
+- Rol laboral: Freelance
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
