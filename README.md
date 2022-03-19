@@ -48,7 +48,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: hgr79@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/hernangonzalezrossi/
-- Rol laboral: Asesor
+- Rol laboral: Freelance
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
