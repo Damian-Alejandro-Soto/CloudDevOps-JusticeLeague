@@ -102,7 +102,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:fggonzalez1986@gmail.com
 - LinkedIn: https://www.linkedin.com/in/fabiana-grisel-gonzalez/
-- Rol laboral: 
+- Rol laboral: QA Software tester / Dev Trainee
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
