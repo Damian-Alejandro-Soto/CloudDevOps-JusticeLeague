@@ -39,7 +39,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: 
 - Email: cmiranda.devops@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cristian-miranda-4a80b522/
-- Rol laboral: 
+- Rol laboral: Software Developer
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
