@@ -75,7 +75,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:efbourdajorge@gmail.com
 - LinkedIn: https://www.linkedin.com/in/elias-federico-bourda-jorge-771273103/
-- Rol laboral: 
+- Rol laboral: Freelance
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
