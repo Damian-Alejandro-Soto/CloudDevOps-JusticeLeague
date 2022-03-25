@@ -57,7 +57,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:pablotorres.cdevops@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pablo-torres-457375127/
-- Rol laboral: 
+- Rol laboral: Solution Architect
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
