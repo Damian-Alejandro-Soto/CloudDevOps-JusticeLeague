@@ -84,7 +84,7 @@ Proyecto del curso de DevOps-Cloud de EducacionIT cursada Sabados Comision 2
 - Rol en el proyecto: Dev
 - Email: mailto:purbi.devops@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pablo-urbieta-2447a796
-- Rol laboral: 
+- Rol laboral: Devops
 - Carrera en EducacionIT: Cloud DevOps
 ```
 
