@@ -6,8 +6,12 @@ realizaremos será:
 ➢ crear una Instancia del tipo F1-micro, de primera generación de Ubuntu con contenedores en
 Google Cloud Platform, con un disco de 100 GB. Seleccionaremos que sea accesible desde
 cualquier dirección IP del mundo, el nombre de la VM debe ser “InstanciaGCPCloudDevops” y
-debe tener los tags “Tipo: Contenedor”, “Sistema Operativo: Ubuntu” “Equipo: Team x”,
-“Carrera: CloudDevops” “Institución: EducaciónIT”.
+debe tener los tags 
+“Tipo: Contenedor”, 
+“Sistema Operativo: Ubuntu” 
+“Equipo: Team x”,
+“Carrera: CloudDevops” 
+“Institución: EducaciónIT”.
 
 
 En esta instancia con contenedores luego probaremos los laboratorios de Docker y las imágenes, por lo
