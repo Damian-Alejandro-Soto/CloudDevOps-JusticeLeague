@@ -25,3 +25,5 @@ EBS de 30gb, con un disco de SSD de 3era Generación, y en sus tags debe decir:
 
 Una ves finalizado esta actividad, deberá ser reflejado en capturas en la tarea en el tablero de trello y
 también en Github
+
+.
